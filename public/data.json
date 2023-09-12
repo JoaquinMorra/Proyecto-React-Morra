@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hilo choricero",
+    "Stock": 20,
+    "Precio": 4000,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  },
+  {
+    "id": 2,
+    "nombre": "Gancho Carniceria",
+    "Stock": 15,
+    "Precio": 2000,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  },
+  {
+    "id": 3,
+    "nombre": "Hilo en Hebras",
+    "Stock": 30,
+    "Precio": 3500,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  },
+  {
+    "id": 4,
+    "nombre": "Hilo Yute",
+    "Stock": 40,
+    "Precio": 7500,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  },
+  {
+    "id": 5,
+    "nombre": "Hilo Pulido",
+    "Stock": 26,
+    "Precio": 4500,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  },
+  {
+    "id": 6,
+    "nombre": "Hilo de Algodon",
+    "Stock": 20,
+    "Precio": 5000,
+    "img": "https://us.123rf.com/450wm/underworld/underworld1502/underworld150201137/36513696-rodillo-de-la-guita-aislado-en-un-fondo-negro.jpg?ver=6"
+  }
+]

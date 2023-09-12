@@ -1,0 +1,20 @@
+.nav-container{
+    background-color: black;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar .navbar-logo{
+    color: white;
+}
+
+.navbar .navbar-cart{
+    color: white;
+    margin-right: 30px;
+    font-size: 25px;
+}
