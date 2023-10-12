@@ -6,6 +6,11 @@ import Home from './components/Home/Home';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 // Importamos nuestro data provider
 import DataProvider from './components/Context/DataContext';
+// Importamos firebase
+import { initFirebase } from './Firebase/Config';
+
+// Ejecutamos firebase
+initFirebase()
 
 
 function App() {
@@ -14,7 +19,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home/>}/>
-          <Route path='/cart' element={Cartcontent} />
+          <Route path='/cart' element={<Cartcontent/>} />
         </Routes>
       </BrowserRouter>
     </DataProvider>
